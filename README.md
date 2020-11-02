@@ -40,7 +40,7 @@ so that the detection and localization of obejct will suit vowel, instead of wor
 
 In the parameters to the main(see Params) you should specify three folders: Train,Valid,Test
 The files inside were created by the "Libri speech files parser" , you can see farther documentation: 
-[here](https://github.com/Jenny-Smolenksy/libri-speech-files-parser)
+[here](https://github.com/Jenny-Smolensky/libri-speech-files-parser)
 
 Example for the data is provided in the data folder, and looks as follow:
 ```
